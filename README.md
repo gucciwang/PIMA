@@ -17,3 +17,6 @@ https://www.kaggle.com/ash316/ml-from-scratch-part-2/data
 
 ## Results ## 
 
+- 1st round training: We chose to ignore all instances in the dataset with missing values in this round. After training for 40 epochs and a batch size of 5, our model performs at 69.6% accuracy for diabetes diagnosis. 
+
+
