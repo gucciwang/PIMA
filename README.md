@@ -9,7 +9,7 @@ Can we train a machine learning model to accurately predict whether or not a pat
 ## Data ## 
 
 We acquired our data from Kaggle. 
-https://www.kaggle.com/ash316/ml-from-scratch-part-2/data
+https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 ## Exploratory Analysis ## 
 
